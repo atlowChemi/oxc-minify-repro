@@ -1,0 +1,1 @@
+new class{el1=null;el2=null;get example(){let e=(this.el1?.getBoundingClientRect()).height??0;return(this.el2?.getBoundingClientRect().height??0)-e}};export{};
